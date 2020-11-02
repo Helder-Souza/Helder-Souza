@@ -1,7 +1,7 @@
 ### Seja bem vindo(a)!! 👋
 ## Eu sou o Helder Souza
 ...Sou um desenvolvedor Web Java Jr, Em busca de crescimento e aprendizado 
-[Imgur](https://i.imgur.com/STFT2Qk.png)
+![](https://i.imgur.com/STFT2Qk.png)
 
 <!--
 **Helder-Souza/Helder-Souza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
