@@ -2,6 +2,8 @@
 ___
 
 ## Eu sou o Helder Souza
+___
+
 <p> <img src="https://i.imgur.com/STFT2Qk.png?1" width="300" height="300" align="right">
 ...Sou um desenvolvedor Web Java Jr, Em busca de crescimento e aprendizado. </p>
 
