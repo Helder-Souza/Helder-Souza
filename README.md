@@ -1,7 +1,8 @@
 ### Seja bem vindo(a)!! 👋
 ## Eu sou o Helder Souza
 ...Sou um desenvolvedor Web Java Jr, Em busca de crescimento e aprendizado 
-![](https://i.imgur.com/STFT2Qk.png?1){.text-right}
+As abreviações servem para destacar iniciais do nome completo de um termo. Um explemplo seria em vez de escrever Hyper Text Markup Language você colocaria somente HTML. Neste caso o termo HTML seria destacado e ao passar o mouse em cima do termo apareceria o nome completo. Ex:
+![](https://i.imgur.com/STFT2Qk.png?1)
 ___
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Helder-Souza)](https://github.com/Helder-Souza)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/helder-souza-7b3591183//)](https://www.linkedin.com/in/helder-souza-7b3591183/)
