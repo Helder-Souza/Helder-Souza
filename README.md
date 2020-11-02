@@ -2,7 +2,7 @@
 ## Eu sou o Helder Souza
 ...Sou um desenvolvedor Web Java Jr, Em busca de crescimento e aprendizado 
 
-![](https://stories.freepik.com/illustration/coding/bro#FF4E00FF&hide=&hide=complete)
+![](C:/Users/Proevento/Desktop/helder git/Coding-bro.png)
 <!--
 **Helder-Souza/Helder-Souza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
