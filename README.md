@@ -1,9 +1,10 @@
 ## Seja bem vindo(a)!! 👋
 
 ## Eu sou o Helder Souza
-<p> <img src="https://i.imgur.com/STFT2Qk.png?1" width="150" height="150" align="right">
+<p> <img src="https://i.imgur.com/STFT2Qk.png?1" width="400" height="400" align="right">
  ...Sou um entusiasta apaixonado por aprender sobre tecnologia, aqui você pode ver um pouco sobre meu portifolio em programação.<br>
 Buscando crescimento e conhecimento para me tornar um desenvolvedor Full Stack.
+ Sou instrutor de desenvolvimento web front-end na Generation Brasil e a principal tecnologia que tenho ensinado ultimamente é Angular, tem sido incrivel essa experiência! Aqui você irá encontrar alguns projetos simples que ensino em sala de aula, fique a vontade para me dar dicas e implementar meus códigos =D
 </p>
 
 ## Entre em contato:
