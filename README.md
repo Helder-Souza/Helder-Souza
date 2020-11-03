@@ -2,13 +2,14 @@
 
 ## Eu sou o Helder Souza
 
-<p> <img src="https://i.imgur.com/STFT2Qk.png?1" width="400" height="400" align="right">
+<p> <img src="https://camo.githubusercontent.com/c7d1d20a9ecc029f8642af59c4912c8fad5c5c61/68747470733a2f2f692e696d6775722e636f6d2f4f563474474c382e706e67" width="400" height="400" align="right">
  
  ...Sou um entusiasta apaixonado em aprender sobre tecnologia, aqui você pode ver um pouco sobre meu portifolio em programação.<br>
 Buscando crescimento e conhecimento para me tornar um desenvolvedor Full Stack.
 </p>
-<img src="https://camo.githubusercontent.com/c7d1d20a9ecc029f8642af59c4912c8fad5c5c61/68747470733a2f2f692e696d6775722e636f6d2f4f563474474c382e706e67" width="400" height="400" align="right">
+
  
+ <img src="https://i.imgur.com/STFT2Qk.png?1" width="400" height="400" align="right">
 ## Entre em contato:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Helder-Souza)](https://github.com/Helder-Souza)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/helder-souza-7b3591183//)](https://www.linkedin.com/in/helder-souza-7b3591183/)
