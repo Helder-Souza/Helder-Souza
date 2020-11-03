@@ -1,9 +1,5 @@
 ## Seja bem vindo(a)!! 👋
-<style>
- img {
-  border: none;
-  }
-</style>
+
 ## Eu sou o Helder Souza
 <p> <img src="https://i.imgur.com/STFT2Qk.png?1" width="400" height="400" align="right">
  ...Sou um entusiasta apaixonado em aprender sobre tecnologia, aqui você pode ver um pouco sobre meu portifolio em programação.<br>
