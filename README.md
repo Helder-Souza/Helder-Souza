@@ -1,4 +1,6 @@
-## Seja bem vindo(a)!! 👋 <p> <img src="https://i.imgur.com/STFT2Qk.png?1" width="400" height="400" align="right">
+<p> <img src="https://i.imgur.com/STFT2Qk.png?1" width="400" height="400" align="right">
+ 
+## Seja bem vindo(a)!! 👋 
 
 ## Eu sou o Helder Souza
 
