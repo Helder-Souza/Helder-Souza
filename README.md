@@ -2,8 +2,8 @@
 
 ## Eu sou o Helder Souza
 
-<p> <img src="https://i.imgur.com/STFT2Qk.png?1" width="300" height="300" align="right">
-...Sou um entusiasta apaixonado por aprender sobre tecnologia, aqui você pode ver um pouco sobre meu portifolio em programação.
+<p> <img src="https://i.imgur.com/STFT2Qk.png?1" width="400" height="400" align="right">
+...Sou um entusiasta apaixonado por aprender sobre tecnologia, aqui você pode ver um pouco sobre meu portifolio em programação.<br>
 Buscando crescimento e conhecimento para me tornar um desenvolvedor Full Stack</p>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Helder-Souza)](https://github.com/Helder-Souza)
