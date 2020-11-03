@@ -7,6 +7,7 @@ Buscando crescimento e conhecimento para me tornar um desenvolvedor Full Stack.
 </p>
  ...Sou um entusiasta apaixonado por aprender sobre tecnologia, aqui você pode ver um pouco sobre meu portifolio em programação.<br>
 Buscando crescimento e conhecimento para me tornar um desenvolvedor Full Stack.
+
 ## Entre em contato:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Helder-Souza)](https://github.com/Helder-Souza)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/helder-souza-7b3591183//)](https://www.linkedin.com/in/helder-souza-7b3591183/)
