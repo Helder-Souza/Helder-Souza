@@ -1,4 +1,4 @@
-<p> <img src="https://i.imgur.com/STFT2Qk.png?1" width="350" height="350" align="right">
+<p> <img src="https://i.imgur.com/STFT2Qk.png?1" width="320" height="320" align="right">
  
 ## Seja bem vindo(a)!! 👋 
 
