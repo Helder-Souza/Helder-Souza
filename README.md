@@ -2,6 +2,10 @@
 
 ## Eu sou o Helder Souza
 <p> <img src="https://i.imgur.com/STFT2Qk.png?1" width="400" height="400" align="right">
+ <br>
+ <br>
+ <br>
+ <br>
  ...Sou um entusiasta apaixonado por aprender sobre tecnologia, aqui você pode ver um pouco sobre meu portifolio em programação.<br>
 Buscando crescimento e conhecimento para me tornar um desenvolvedor Full Stack.<br>
  <br>
