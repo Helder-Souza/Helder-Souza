@@ -5,7 +5,7 @@
 ## Eu sou o Helder Souza
 
  ...Sou um entusiasta apaixonado em aprender sobre tecnologia, aqui você pode ver um pouco sobre meu portifolio em programação.<br>
-Buscando crescimento e conhecimento para me tornar um desenvolvedor Full Stack.
+Buscando crescimento e conhecimento para me aprimorar na área de desenvolvimento.
 
 </p>
 
