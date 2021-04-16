@@ -15,7 +15,7 @@ Buscando crescimento e conhecimento para me aprimorar na área de desenvolviment
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/helder-souza-7b3591183//)](https://www.linkedin.com/in/helder-souza-7b3591183/)
 
 <details>
- <summary> <b> Thing to know about me! <!b> (click to expand<i/>) </summary>
+ <summary> <b> Coisas para saber sobre mim! <!b> (clique para expandir<i/>) </summary>
   
   ![Helder Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=Helder-Souza&show_icons=true&theme=maroongold)
   
