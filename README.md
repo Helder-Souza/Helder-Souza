@@ -1,4 +1,4 @@
-<p> <img src="https://i.imgur.com/rNcOnlY.png" width="350" height="350" align="right">
+<p> <img src="https://i.imgur.com/ajD07hU.png" width="350" height="350" align="right">
  
 ## Seja bem vindo(a)!! 👋 
 
@@ -17,7 +17,7 @@ Buscando crescimento e conhecimento para me aprimorar na área de desenvolviment
 <details>
  <summary> <b> Coisas para saber sobre mim! <!b> (clique para expandir<i/>) </summary>
   
-  ![Helder Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=Helder-Souza&show_icons=true&theme=maroongold)
+  ![Helder Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=Helder-Souza&show_icons=true&theme=chartreuse-dark)
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Helder-Souza&layout=compact)
   <br>
