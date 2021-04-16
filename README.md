@@ -1,4 +1,4 @@
-<p> <img src="https://i.imgur.com/GNnQKwe.png" width="350" height="350" align="right">
+<p> <img src="https://i.imgur.com/rNcOnlY.png" width="350" height="350" align="right">
  
 ## Seja bem vindo(a)!! 👋 
 
