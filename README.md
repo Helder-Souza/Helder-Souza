@@ -19,7 +19,7 @@ Buscando crescimento e conhecimento para me aprimorar na área de desenvolviment
   
   ![Helder Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=Helder-Souza&show_icons=true&theme=chartreuse-dark)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Helder-Souza&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Helder-Souza&layout=compact&theme=chartreuse-dark)
   <br>
   
   </details>
