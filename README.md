@@ -1,17 +1,6 @@
-<!--<p> <img src="https://i.imgur.com/ajD07hU.png" width="350" height="350" align="right"> -->
- 
-<!--## Seja bem vindo(a)!! 👋 -->
-
-<!--## Eu sou o Helder Souza -->
-
- <!--...Sou um entusiasta apaixonado em aprender sobre tecnologia, aqui você pode ver um pouco sobre meu portifolio em programação.<br>
-Buscando crescimento e conhecimento para me aprimorar na área de desenvolvimento.-->
-
-<!--</p> -->
-
 <img align="right" width="400" height="400" src="https://i.imgur.com/ajD07hU.png">
  
-# Seja bem vindo(a)!
+# Seja bem vindo(a)!! 👋
  
 ## Eu sou o Helder Souza!
  
