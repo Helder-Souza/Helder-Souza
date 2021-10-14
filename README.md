@@ -2,21 +2,24 @@
  
 ## Eu sou o Helder Souza!
  
-Sou um entusiasta apaixonado em aprender sobre tecnologia, aqui você pode ver um pouco sobre meu portifolio em programação.<br>
+Sou um entusiasta apaixonado em aprender sobre tecnologia, aqui você pode ver um pouco sobre meu portfólio em programação.<br>
 Buscando crescimento e conhecimento para me aprimorar na área de desenvolvimento.
 
- ![Helder Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=Helder-Souza&show_icons=true&theme=midnight-purple)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Helder-Souza&layout=compact&theme=midnight-purple)
-  <br>
-  
-## Entre em contato:
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Helder-Souza)](https://github.com/Helder-Souza)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/helder-souza-7b3591183//)](https://www.linkedin.com/in/helder-souza-7b3591183/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:helder.souza825@gmail.com)
-  
-Obrigado pela visita!!
-
-![Snake animation](https://github.com/Helder-Souza/Helder-Souza/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <a href="https://github.com/Helder-Souza">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Helder-Souza&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helder-Souza&layout=compact&langs_count=7&theme=gotham"/>
+</div>
+ 
+ ##
+ 
+<div> 
+  <a href = "mailto:helder.souza825@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/souzahelder" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/Helder-Souza/Helder-Souza/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 
 <!--
 **Helder-Souza/Helder-Souza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
