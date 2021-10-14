@@ -1,6 +1,4 @@
-# Seja bem vindo(a)!! 👋
- 
-## Eu sou o Helder Souza!
+## Olá, eu sou o Helder Souza!
  
 Sou um entusiasta apaixonado em aprender sobre tecnologia, aqui você pode ver um pouco sobre meu portfólio em programação.<br>
 Buscando crescimento e conhecimento para me aprimorar na área de desenvolvimento.
