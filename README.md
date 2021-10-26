@@ -5,8 +5,8 @@ Buscando crescimento e conhecimento para me aprimorar na área de desenvolviment
 
 <div align="center">
   <a href="https://github.com/Helder-Souza">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Helder-Souza&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helder-Souza&layout=compact&langs_count=7&theme=ocean_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Helder-Souza&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helder-Souza&layout=compact&langs_count=7&theme=ocean_dark"/>
 </div>
 
  ##
